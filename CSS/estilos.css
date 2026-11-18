@@ -41,3 +41,9 @@
     margin-right: 20px;
     margin-left: 20px;
   }
+
+  .logotop {
+    display: inline; /* the default for span */
+    padding: 5px;
+
+  }
