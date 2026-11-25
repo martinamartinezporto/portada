@@ -19,12 +19,12 @@
   .nombre {
     background-color: lightblue;
     margin-left: 10px;
-    margin-right: 980px;
+   
   }
   .nombre2 {
     background-color: rgb(203, 223, 230);
     margin-left: 10px;
-    margin-right: 630px;
+   
   }
 
   .contacto {  
@@ -46,4 +46,31 @@
     display: inline; /* the default for span */
     padding: 5px;
 
+  }
+
+  .pdf{
+    background-color: #c5e8ff;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  font-size: 16px; 
+  }
+
+  .logotop {
+    display: inline-flex; /* the default for span */
+    padding: 5px;
+    width: 150px;
+    height: auto;
+    text-align: right;
+  }
+
+  .cabecera{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+
+  .datos{
+    text-align: left
   }
