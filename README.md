@@ -4,6 +4,10 @@ Práctica 03 de TIC II (2.º A Bachillerato).
 
 Creación de una página principal de mi servidor, utilizando HTML, CSS y Bootstrap. Con ello podré tener un acceso directo a todas las prácticas hechas durante el trimestre.
 
+**Fecha de publicación:** 27/11/26
+
+**Enlace al servidor:** [Acceder al servidor](http://salescoruna.ddns.net/martina.martinez/)
+
 ---
 
 ##  Objetivo y contenido
