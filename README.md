@@ -6,7 +6,7 @@ Creación de una página principal de mi servidor, utilizando HTML, CSS y Bootst
 
 **Fecha de publicación:** 27/11/26
 
-**Enlace al servidor:** [Acceder al servidor](http://salescoruna.ddns.net/martina.martinez/)
+**Enlace al servidor:** [Acceder al servidor](http://salescoruna.ddns.net/martina.martinez/)  : http://salescoruna.ddns.net/martina.martinez/
 
 ---
 
